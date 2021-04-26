@@ -2,12 +2,12 @@
 # out the current state.
 
 
-def display_board (Bo)
-  puts "#{Bo[0]}|#{Bo[1]}|#{Bo[2]}"
+def display_board (bo)
+  puts "#{bo[0]}|#{bo[1]}|#{bo[2]}"
   puts "-----------"
-  puts "#{Bo[3]}|#{Bo[4]}|#{Bo[5]}"
+  puts "#{bo[3]}|#{bo[4]}|#{bo[5]}"
   puts "-----------"
-  puts "#{Bo[6]}|#{Bo[7]}|#{Bo[8]}"
+  puts "#{bo[6]}|#{bo[7]}|#{bo[8]}"
 
 end
 board= [" ", " ", " ", " ", "X", " ", " ", " ", " "]
