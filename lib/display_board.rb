@@ -10,4 +10,3 @@ def display_board (board)
 
 end
 
-diplay_board(board)
