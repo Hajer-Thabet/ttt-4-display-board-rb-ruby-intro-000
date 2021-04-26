@@ -10,5 +10,5 @@ def display_board (bo)
   puts "#{bo[6]}|#{bo[7]}|#{bo[8]}"
 
 end
-board= [" ", " ", " ", " ", "X", " ", " ", " ", " "]
+board= [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 display_board (board)
