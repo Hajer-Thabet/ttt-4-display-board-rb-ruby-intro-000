@@ -3,7 +3,7 @@
 
 
 def display_board (bo)
-  puts "#{bo[0]}|#{bo[1]}|#{bo[2]}"
+  puts " #{bo[0]} | #{bo[1]} | #{bo[2]} "
   puts "-----------"
   puts "#{bo[3]}|#{bo[4]}|#{bo[5]}"
   puts "-----------"
